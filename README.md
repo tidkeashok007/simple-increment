@@ -18,7 +18,7 @@ To view the project, simply open the `index.html` file in a web browser.
 
 ## Screenshot
 
-![Increment Project](increment.png)
+![Increment Project](simple.png)
 
 ## License
 
