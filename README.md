@@ -2,6 +2,10 @@
 
 ![Increment Project](simple.png)
 
+## Live Demo
+
+Check out the live demo [here](https://tidkeashok007.github.io/simple-increment/).
+
 # My Project
 
 Welcome to My Project! This repository contains the source code for a simple increment project created using HTML, CSS, and JavaScript.
