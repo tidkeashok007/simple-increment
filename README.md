@@ -1,3 +1,7 @@
+## Screenshot
+
+![Increment Project](simple.png)
+
 # My Project
 
 Welcome to My Project! This repository contains the source code for a simple increment project created using HTML, CSS, and JavaScript.
@@ -16,9 +20,6 @@ This project demonstrates a basic increment functionality using HTML, CSS, and J
 
 To view the project, simply open the `index.html` file in a web browser.
 
-## Screenshot
-
-![Increment Project](simple.png)
 
 ## License
 
